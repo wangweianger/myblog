@@ -1,0 +1,22 @@
+{
+  "name": "myblog",
+  "version": "1.0.0",
+  "description": ">  * parcel 搭建服务器\r >  * babel  编译",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangweianger/myblog.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "zane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangweianger/myblog/issues"
+  },
+  "homepage": "https://github.com/wangweianger/myblog#readme"
+}
