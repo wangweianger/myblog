@@ -1,6 +1,6 @@
 # 个人博客
 
-
+*   [开发完第一版前端性能监控系统后的总结](http://blog.seosiwei.com/detail/19)
 *   [专属node.js调用mysql数据库封装开发的node-transform-mysql库 链式调用、使用简单、文档完善](http://blog.seosiwei.com/detail/18)
 *   [react-redux源码解读与学习之Provider](http://blog.seosiwei.com/detail/17)
 *   [PC端时间日历插件，功能齐全，无依赖](http://blog.seosiwei.com/detail/8)
