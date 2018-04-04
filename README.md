@@ -1,5 +1,7 @@
 # 个人博客
 
+*   [vue.js源码解读系列 - 双向绑定具体如何初始化和工作](http://blog.seosiwei.com/detail/22)
+*   [koa2源码解读与总结](http://blog.seosiwei.com/detail/21)
 *   [开发完第一版前端性能监控系统后的总结](http://blog.seosiwei.com/detail/19)
 *   [专属node.js调用mysql数据库封装开发的node-transform-mysql库 链式调用、使用简单、文档完善](http://blog.seosiwei.com/detail/18)
 *   [react-redux源码解读与学习之Provider](http://blog.seosiwei.com/detail/17)
