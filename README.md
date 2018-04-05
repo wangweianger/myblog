@@ -5,7 +5,7 @@
 *   [vue.js源码解读系列 - 剖析observer,dep,watch三者关系 如何具体的实现数据双向绑定](http://blog.seosiwei.com/detail/24)
 *   [vue.js源码解读系列 - Vue的自定义事件机制](http://blog.seosiwei.com/detail/23)
 *   [vue.js源码解读系列 - 双向绑定具体如何初始化和工作](http://blog.seosiwei.com/detail/22)
-### koa源码
+### koa源码解析
 *   [koa2源码解读与总结](http://blog.seosiwei.com/detail/21)
 ### 其他
 *   [开发完第一版前端性能监控系统后的总结](http://blog.seosiwei.com/detail/19)
@@ -15,7 +15,8 @@
 *   [基于vue2.5和webpack3.8的配置及其优化实践](http://blog.seosiwei.com/detail/9)
 *   [基于react16 webpack3 搭建前端spa基础框架 react-router的4种异步加载方式](http://blog.seosiwei.com/detail/10)
 *   [react-router4基于react-router-config的路由拆分与按需加载](http://blog.seosiwei.com/detail/11)
-*   [redux v3.7.2源码详细解读与学习之compose](http://blog.seosiwei.com/detail/12)
+### redux源码解析
+*   [redux v3.7.2源码详细解读与学习之compose](http://blog.seosiwei.com/detail/12)
 *   [redux v3.7.2源码详细解读与学习之createStore](http://blog.seosiwei.com/detail/13)
 *   [redux v3.7.2源码详细解读与学习之combineReducers](http://blog.seosiwei.com/detail/14)
 *   [redux v3.7.2源码详细解读与学习之applyMiddleware](http://blog.seosiwei.com/detail/15)
