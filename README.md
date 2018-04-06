@@ -1,12 +1,12 @@
 # 个人博客
 
 ### VUE源码解析
-*   [vue.js源码解读系列 - props、methods、computed与watch如何具体的初始化和工作](http://blog.seosiwei.com/detail/25)
-*   [vue.js源码解读系列 - 剖析observer,dep,watch三者关系 如何具体的实现数据双向绑定](http://blog.seosiwei.com/detail/24)
-*   [vue.js源码解读系列 - Vue的自定义事件机制](http://blog.seosiwei.com/detail/23)
-*   [vue.js源码解读系列 - 双向绑定具体如何初始化和工作](http://blog.seosiwei.com/detail/22)
+* [vue.js源码解读系列 - props、methods、computed与watch如何具体的初始化和工作](http://blog.seosiwei.com/detail/25)
+* [vue.js源码解读系列 - 剖析observer,dep,watch三者关系 如何具体的实现数据双向绑定](http://blog.seosiwei.com/detail/24)
+* [vue.js源码解读系列 - Vue的自定义事件机制](http://blog.seosiwei.com/detail/23)
+* [vue.js源码解读系列 - 双向绑定具体如何初始化和工作](http://blog.seosiwei.com/detail/22)
 ### koa源码解析
-*   [koa2源码解读与总结](http://blog.seosiwei.com/detail/21)
+* [koa2源码解读与总结](http://blog.seosiwei.com/detail/21)
 ### 其他
 *   [开发完第一版前端性能监控系统后的总结](http://blog.seosiwei.com/detail/19)
 *   [专属node.js调用mysql数据库封装开发的node-transform-mysql库 链式调用、使用简单、文档完善](http://blog.seosiwei.com/detail/18)
