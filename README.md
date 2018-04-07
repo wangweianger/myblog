@@ -1,6 +1,7 @@
 # 个人博客
 
 ### VUE源码解析
+* [vue.js源码解读系列 - vue的vdom及其diff算法](http://blog.seosiwei.com/detail/26)
 * [vue.js源码解读系列 - props、methods、computed与watch如何具体的初始化和工作](http://blog.seosiwei.com/detail/25)
 * [vue.js源码解读系列 - 剖析observer,dep,watch三者关系 如何具体的实现数据双向绑定](http://blog.seosiwei.com/detail/24)
 * [vue.js源码解读系列 - Vue的自定义事件机制](http://blog.seosiwei.com/detail/23)
