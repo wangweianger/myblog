@@ -5,6 +5,7 @@
 * [performance-report页面性能、资源、错误、ajax，fetch请求上报插件](https://blog.seosiwei.com/detail/30)
 * [个人博客阿里云服务器HTTPS实践，node.js + nginx https实践](https://blog.seosiwei.com/detail/29)
 ### VUE源码解析 
+* [深层次理解Vue的watch实现原理及其实现方式](https://blog.seosiwei.com/detail/36)
 * [彻底搞懂Vue针对数组和双向绑定(MVVM)的处理方式](http://blog.seosiwei.com/detail/35)
 * [vue.js源码解读系列 - vue的vdom及其diff算法](http://blog.seosiwei.com/detail/26)
 * [vue.js源码解读系列 - props、methods、computed与watch如何具体的初始化和工作](http://blog.seosiwei.com/detail/25)
