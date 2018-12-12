@@ -28,7 +28,7 @@
 * [基于react16 webpack3 搭建前端spa基础框架 react-router的4种异步加载方式](http://blog.seosiwei.com/detail/10)
 * [react-router4基于react-router-config的路由拆分与按需加载](http://blog.seosiwei.com/detail/11)
 * [react-redux源码解读与学习之Provider](http://blog.seosiwei.com/detail/17)
-### redux源码解析 
+### redux源码解析  
 * [redux v3.7.2源码详细解读与学习之compose](http://blog.seosiwei.com/detail/12)
 * [redux v3.7.2源码详细解读与学习之createStore](http://blog.seosiwei.com/detail/13)
 * [redux v3.7.2源码详细解读与学习之combineReducers](http://blog.seosiwei.com/detail/14)
