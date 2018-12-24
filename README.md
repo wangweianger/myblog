@@ -22,7 +22,7 @@
 * [koa2源码解读与总结](http://blog.seosiwei.com/detail/21)
 ### 其他 
 * [开发完第一版前端性能监控系统后的总结](http://blog.seosiwei.com/detail/19)
-* [专属node.js调用mysql数据库封装开发的node-transform-mysql库 链式调用、使用简单、文档完善](http://blog.seosiwei.com/detail/18)
+* [mysqls一款专为node.js生成sql语句的插件、链式调用、使用灵活、支持事物](http://blog.seosiwei.com/detail/48)
 * [PC端时间日历插件，功能齐全，无依赖](http://blog.seosiwei.com/detail/8)
 * [基于vue2.5和webpack3.8的配置及其优化实践](http://blog.seosiwei.com/detail/9)
 * [基于react16 webpack3 搭建前端spa基础框架 react-router的4种异步加载方式](http://blog.seosiwei.com/detail/10)
