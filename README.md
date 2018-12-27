@@ -9,6 +9,7 @@
 * [zanePerfor前端性能监控平台高可用之Mongodb集群分片架构](https://blog.seosiwei.com/detail/43)
 * [zanePerfor前端性能监控系统高可用之Mongodb副本集读写分离架构](https://blog.seosiwei.com/detail/42)
 * [zanePerfor前端监控平台性能优化之数据库分表](https://blog.seosiwei.com/detail/44)
+* [zanePerfor中一套简单通用的Node前后端Token登录机制和github授权登录方式](https://blog.seosiwei.com/detail/49)
 ### VUE源码解析 
 * [深入理解Vue的computed实现原理及其实现方式](https://blog.seosiwei.com/detail/37)
 * [深层次理解Vue的watch实现原理及其实现方式](https://blog.seosiwei.com/detail/36)
