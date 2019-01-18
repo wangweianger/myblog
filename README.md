@@ -10,7 +10,7 @@
 * [zanePerfor前端性能监控系统高可用之Mongodb副本集读写分离架构](https://blog.seosiwei.com/detail/42)
 * [zanePerfor前端监控平台性能优化之数据库分表](https://blog.seosiwei.com/detail/44)
 * [zanePerfor中一套简单通用的Node前后端Token登录机制和github、新浪、微信等第三方授权登录](https://blog.seosiwei.com/detail/49)
-* [zanePerfor中kafka的应用和使用方式说明] (https://blog.seosiwei.com/detail/51)
+* [zanePerfor中kafka的应用和使用方式说明](https://blog.seosiwei.com/detail/51)
 ### VUE源码解析 
 * [深入理解Vue的computed实现原理及其实现方式](https://blog.seosiwei.com/detail/37)
 * [深层次理解Vue的watch实现原理及其实现方式](https://blog.seosiwei.com/detail/36)
