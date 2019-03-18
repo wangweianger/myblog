@@ -1,9 +1,9 @@
 # 个人博客
 ### 无序
 * [nginx部署http2.0协议](https://blog.seosiwei.com/detail/34)
-* [如何做到网页性能的极致优化](https://blog.seosiwei.com/detail/33) 
+* [如何做到网页性能的极致优化](https://blog.seosiwei.com/detail/33)
 * [performance-report页面性能、资源、错误、ajax，fetch请求上报插件](https://blog.seosiwei.com/detail/30)
-* [个人博客阿里云服务器HTTPS实践，node.js + nginx https实践](https://blog.seosiwei.com/detail/29)
+* [个人博客阿里云服务器HTTPS实践，node、nginx、https实践](https://blog.seosiwei.com/detail/29)
 ### zanePerfor监控系统
 * [zanePerfor，我定义为一款完整，高性能，高可用的前端性能监控系统平台](https://blog.seosiwei.com/detail/41)
 * [zanePerfor前端性能监控平台高可用之Mongodb集群分片架构](https://blog.seosiwei.com/detail/43)
