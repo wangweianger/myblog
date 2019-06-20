@@ -1,5 +1,6 @@
 # 个人博客
 ### 无序
+* [APubPlat 一款Devops自动化部署、持续集成、堡垒机开源项目、友好的Web Terminal](https://blog.seosiwei.com/detail/54)
 * [nginx部署http2.0协议](https://blog.seosiwei.com/detail/34)
 * [如何做到网页性能的极致优化](https://blog.seosiwei.com/detail/33)
 * [performance-report页面性能、资源、错误、ajax，fetch请求上报插件](https://blog.seosiwei.com/detail/30)
